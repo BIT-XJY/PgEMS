@@ -1,2 +1,3 @@
 # PgEMS
-A Transferable Perception-guided EMS for Series Hybrid Electric Unmanned Tracked Vehicles
+
+Source code for **A Transferable Perception-guided EMS for Series Hybrid Electric Unmanned Tracked Vehicles**. Coming soon...
